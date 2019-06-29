@@ -1,4 +1,6 @@
-# gpt-2
+# GPT-2
+
+Reference: https://github.com/nshepperd/gpt-2
 
 Code from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
